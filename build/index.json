@@ -21,7 +21,7 @@
   },
   {
     "group": "Qodly cash app templates",
-    "icon": "fa fa-money",
+    "icon": "fa fa-regular fa-money-bill-1",
     "tags": [
       "invoice",
       "cash",
@@ -59,7 +59,7 @@
   },
   {
     "group": "Business trip",
-    "icon": "fa fa-handshake-o",
+    "icon": "fa fa-regular fa-handshake",
     "tags": [
       "trip",
       "business"
@@ -113,7 +113,7 @@
   },
   {
     "group": "Event manager",
-    "icon": "fa-calendar-o",
+    "icon": "fa fa-regular fa-calendar",
     "tags": [
       "template"
     ],
@@ -121,7 +121,7 @@
   },
   {
     "group": "Team management",
-    "icon": "fa fa-calendar-plus-o",
+    "icon": "fa fa-regular fa-calendar-plus",
     "tags": [
       "template"
     ],
