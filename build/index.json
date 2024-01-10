@@ -110,5 +110,30 @@
       "timesheet"
     ],
     "link": "https://raw.githubusercontent.com/midrissi/Web-studio-TIPS/gh-build/build/timesheet.json"
+  },
+  {
+    "group": "Event manager",
+    "icon": "fa-calendar-o",
+    "tags": [
+      "template"
+    ],
+    "link": "https://raw.githubusercontent.com/midrissi/Web-studio-TIPS/gh-build/build/event-manager.json"
+  },
+  {
+    "group": "Team management",
+    "icon": "fa fa-calendar-plus-o",
+    "tags": [
+      "template"
+    ],
+    "link": "https://raw.githubusercontent.com/midrissi/Web-studio-TIPS/gh-build/build/team-management.json"
+  },
+  {
+    "group": "Library",
+    "icon": "fa-solid fa-book",
+    "tags": [
+      "template",
+      "library"
+    ],
+    "link": "https://raw.githubusercontent.com/midrissi/Web-studio-TIPS/gh-build/build/library.json"
   }
 ]
