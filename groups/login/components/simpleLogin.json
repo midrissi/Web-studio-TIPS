@@ -1,0 +1,1036 @@
+{
+    "id": "c5pjfjypVPjPpBEWujttmv",
+    "rootNodeId": "SWPzFmlp6Z",
+    "nodes":
+    {
+        "SWPzFmlp6Z":
+        {
+            "type":
+            {
+                "resolvedName": "StyleBox"
+            },
+            "isCanvas": true,
+            "props":
+            {
+                "events":
+                [],
+                "iterableChild": true,
+                "style":
+                {
+                    "backgroundImage": "url(https://raw.githubusercontent.com/4d/Web-studio-TIPS/gh-build/groups/login/assets/loginBackground.png)",
+                    "width": "100%",
+                    "height": "100%",
+                    "marginTop": "0px",
+                    "marginRight": "0px",
+                    "marginBottom": "0px",
+                    "marginLeft": "0px",
+                    "minWidth": "100%",
+                    "maxWidth": "100%",
+                    "backgroundSize": "cover",
+                    "backgroundRepeat": "no-repeat",
+                    "minHeight": "100%",
+                    "maxHeight": "100%"
+                },
+                "classNames":
+                []
+            },
+            "displayName": "Stylebox",
+            "custom":
+            {},
+            "parent": "ROOT",
+            "hidden": false,
+            "nodes":
+            [
+                "aXyVzteJ_c",
+                "sCf_yzbi9h"
+            ],
+            "linkedNodes":
+            {}
+        },
+        "aXyVzteJ_c":
+        {
+            "type":
+            {
+                "resolvedName": "StyleBox"
+            },
+            "isCanvas": true,
+            "props":
+            {
+                "events":
+                [],
+                "iterableChild": true,
+                "classNames":
+                [
+                    "sign-in"
+                ],
+                "style":
+                {
+                    "width": "100%",
+                    "height": "100%",
+                    "paddingTop": "0px",
+                    "paddingRight": "0px",
+                    "paddingBottom": "0px",
+                    "paddingLeft": "0px",
+                    "marginTop": "0px",
+                    "marginRight": "0px",
+                    "marginBottom": "0px",
+                    "marginLeft": "0px",
+                    "minWidth": "100%",
+                    "maxWidth": "100%",
+                    "minHeight": "100%",
+                    "maxHeight": "100%"
+                }
+            },
+            "displayName": "Stylebox",
+            "custom":
+            {},
+            "parent": "SWPzFmlp6Z",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {}
+        },
+        "sCf_yzbi9h":
+        {
+            "type":
+            {
+                "resolvedName": "StyleBox"
+            },
+            "isCanvas": true,
+            "props":
+            {
+                "events":
+                [],
+                "iterableChild": true,
+                "style":
+                {
+                    "width": "450px",
+                    "paddingTop": "0px",
+                    "paddingRight": "0px",
+                    "paddingBottom": "0px",
+                    "paddingLeft": "0px",
+                    "marginTop": "0px",
+                    "marginRight": "0px",
+                    "marginBottom": "0px",
+                    "marginLeft": "0px",
+                    "minWidth": "450px",
+                    "maxWidth": "450px",
+                    "position": "absolute",
+                    "top": "10%",
+                    "right": "15%"
+                }
+            },
+            "displayName": "Stylebox",
+            "custom":
+            {
+                "states:47jGZDYzEGafJZPswZLZey":
+                {
+                    "style":
+                    {
+                        "display": "block"
+                    }
+                }
+            },
+            "parent": "SWPzFmlp6Z",
+            "hidden": false,
+            "nodes":
+            [
+                "MesBueCGEk"
+            ],
+            "linkedNodes":
+            {}
+        },
+        "MesBueCGEk":
+        {
+            "type":
+            {
+                "resolvedName": "StyleBox"
+            },
+            "isCanvas": true,
+            "props":
+            {
+                "events":
+                [],
+                "iterableChild": true,
+                "style":
+                {
+                    "borderRadius": "20px",
+                    "paddingLeft": "70px",
+                    "paddingRight": "70px",
+                    "display": "flex",
+                    "justifyContent": "center",
+                    "flexDirection": "column",
+                    "alignItems": "center",
+                    "marginTop": "6px",
+                    "marginBottom": "6px",
+                    "paddingTop": "40px",
+                    "paddingBottom": "40px"
+                },
+                "classNames":
+                [
+                    "lightMode"
+                ]
+            },
+            "displayName": "Stylebox",
+            "custom":
+            {
+                "states:47jGZDYzEGafJZPswZLZey":
+                {
+                    "style":
+                    {
+                        "display": "flex"
+                    }
+                }
+            },
+            "parent": "sCf_yzbi9h",
+            "hidden": false,
+            "nodes":
+            [
+                "SvSd9d_LsF",
+                "JkpyLueOso",
+                "TDNPVALTvr",
+                "crjDji6Q_M",
+                "ASApH5QCY6",
+                "aLVzKVsYFA",
+                "TMvTdENWu1",
+                "k09GdgOUR3",
+                "79MqPlUpI-"
+            ],
+            "linkedNodes":
+            {}
+        },
+        "SvSd9d_LsF":
+        {
+            "type":
+            {
+                "resolvedName": "Image"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "classNames":
+                [],
+                "events":
+                [],
+                "style":
+                {
+                    "width": "140px",
+                    "height": "auto",
+                    "marginBottom": "20px",
+                    "marginTop": "12px"
+                },
+                "imgSrc": "https://raw.githubusercontent.com/4d/Web-studio-TIPS/gh-build/groups/login/assets/logo-dark.png"
+            },
+            "displayName": "Image",
+            "custom":
+            {},
+            "parent": "MesBueCGEk",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {}
+        },
+        "JkpyLueOso":
+        {
+            "type":
+            {
+                "resolvedName": "StyleBox"
+            },
+            "isCanvas": true,
+            "props":
+            {
+                "events":
+                [],
+                "iterableChild": true,
+                "style":
+                {
+                    "paddingLeft": "0px",
+                    "paddingRight": "0px",
+                    "paddingBottom": "0px",
+                    "paddingTop": "0px",
+                    "marginBottom": "6px",
+                    "fontSize": "12px"
+                }
+            },
+            "displayName": "Stylebox",
+            "custom":
+            {},
+            "parent": "MesBueCGEk",
+            "hidden": false,
+            "nodes":
+            [
+                "Dhlbwfri-U"
+            ],
+            "linkedNodes":
+            {}
+        },
+        "Dhlbwfri-U":
+        {
+            "type":
+            {
+                "resolvedName": "Text"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "events":
+                [],
+                "iterableChild": true,
+                "style":
+                {
+                    "marginLeft": "0px",
+                    "marginRight": "0px",
+                    "marginBottom": "0px",
+                    "marginTop": "0px",
+                    "fontSize": "12px"
+                },
+                "doc":
+                [
+                    {
+                        "type": "paragraph",
+                        "children":
+                        [
+                            {
+                                "text": "Username or Email Address",
+                                "bold": false,
+                                "italic": false,
+                                "underlined": false,
+                                "strikethrough": false
+                            }
+                        ]
+                    }
+                ],
+                "datasource": ""
+            },
+            "displayName": "Text",
+            "custom":
+            {},
+            "parent": "JkpyLueOso",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {}
+        },
+        "TDNPVALTvr":
+        {
+            "type":
+            {
+                "resolvedName": "TextInput"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "events":
+                [],
+                "placeholder": "placeholder",
+                "label": "label",
+                "labelPosition": "hidden",
+                "iterableChild": true,
+                "style":
+                {
+                    "marginTop": "0px",
+                    "marginBottom": "6px"
+                }
+            },
+            "displayName": "Text Input",
+            "custom":
+            {},
+            "parent": "MesBueCGEk",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {
+                "label": "Ylezev0ac4",
+                "input": "HeBRlu-Fdy"
+            }
+        },
+        "Ylezev0ac4":
+        {
+            "type":
+            {
+                "resolvedName": "Label"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "events":
+                [],
+                "moveable": false,
+                "text": "User name or Email address<br>",
+                "style":
+                {
+                    "color": "#666682"
+                },
+                "deletable": true
+            },
+            "displayName": "Label",
+            "custom":
+            {},
+            "parent": "TDNPVALTvr",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {}
+        },
+        "HeBRlu-Fdy":
+        {
+            "type":
+            {
+                "resolvedName": "Input"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "events":
+                [],
+                "deletable": false,
+                "className": "w-full bg-transparent",
+                "type": "text",
+                "moveable": false,
+                "placeholder": ""
+            },
+            "displayName": "Input",
+            "custom":
+            {},
+            "parent": "TDNPVALTvr",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {}
+        },
+        "crjDji6Q_M":
+        {
+            "type":
+            {
+                "resolvedName": "StyleBox"
+            },
+            "isCanvas": true,
+            "props":
+            {
+                "events":
+                [],
+                "iterableChild": true,
+                "style":
+                {
+                    "paddingLeft": "0px",
+                    "paddingRight": "0px",
+                    "paddingBottom": "0px",
+                    "paddingTop": "0px",
+                    "display": "flex",
+                    "justifyContent": "space-between",
+                    "alignItems": "center",
+                    "marginBottom": "6px",
+                    "fontSize": "12px"
+                }
+            },
+            "displayName": "Stylebox",
+            "custom":
+            {},
+            "parent": "MesBueCGEk",
+            "hidden": false,
+            "nodes":
+            [
+                "xDTWufwxSi",
+                "0wVRT1G1JT"
+            ],
+            "linkedNodes":
+            {}
+        },
+        "xDTWufwxSi":
+        {
+            "type":
+            {
+                "resolvedName": "Text"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "events":
+                [],
+                "iterableChild": true,
+                "style":
+                {
+                    "marginLeft": "0px",
+                    "marginRight": "0px",
+                    "marginBottom": "0px",
+                    "marginTop": "0px",
+                    "fontSize": "12px"
+                },
+                "doc":
+                [
+                    {
+                        "type": "paragraph",
+                        "children":
+                        [
+                            {
+                                "text": "Password",
+                                "bold": false,
+                                "italic": false,
+                                "underlined": false,
+                                "strikethrough": false
+                            }
+                        ]
+                    }
+                ],
+                "datasource": ""
+            },
+            "displayName": "Text",
+            "custom":
+            {},
+            "parent": "crjDji6Q_M",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {}
+        },
+        "0wVRT1G1JT":
+        {
+            "type":
+            {
+                "resolvedName": "StyleBox"
+            },
+            "isCanvas": true,
+            "props":
+            {
+                "events":
+                [],
+                "iterableChild": true,
+                "style":
+                {
+                    "display": "flex",
+                    "marginLeft": "0px",
+                    "paddingLeft": "0px",
+                    "paddingRight": "0px",
+                    "paddingBottom": "0px",
+                    "paddingTop": "0px",
+                    "alignItems": "center",
+                    "marginBottom": "0px",
+                    "marginRight": "0px",
+                    "marginTop": "0px",
+                    "justifyContent": "flex-end",
+                    "width": "auto",
+                    "cursor": "pointer"
+                }
+            },
+            "displayName": "Stylebox",
+            "custom":
+            {
+                "states:cEGLv7kFTWKsPtM7apgQtt":
+                {
+                    "style":
+                    {
+                        "display": "flex"
+                    }
+                },
+                "states:47jGZDYzEGafJZPswZLZey":
+                {
+                    "style":
+                    {
+                        "display": "none"
+                    }
+                }
+            },
+            "parent": "crjDji6Q_M",
+            "hidden": false,
+            "nodes":
+            [
+                "Ur5lsqyCxV",
+                "1Lgpp6R2Q8"
+            ],
+            "linkedNodes":
+            {}
+        },
+        "Ur5lsqyCxV":
+        {
+            "type":
+            {
+                "resolvedName": "Icon"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "classNames":
+                [],
+                "events":
+                [],
+                "icon": "fa-solid fa-eye",
+                "style":
+                {
+                    "marginTop": "0px",
+                    "marginRight": "0px",
+                    "marginBottom": "0px",
+                    "marginLeft": "0px"
+                }
+            },
+            "displayName": "Icon",
+            "custom":
+            {},
+            "parent": "0wVRT1G1JT",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {}
+        },
+        "1Lgpp6R2Q8":
+        {
+            "type":
+            {
+                "resolvedName": "Text"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "events":
+                [],
+                "iterableChild": true,
+                "style":
+                {
+                    "marginTop": "0px",
+                    "marginRight": "0px",
+                    "marginBottom": "0px",
+                    "marginLeft": "6px",
+                    "width": "33px"
+                },
+                "doc":
+                [
+                    {
+                        "type": "paragraph",
+                        "children":
+                        [
+                            {
+                                "text": "Show",
+                                "bold": false,
+                                "italic": false,
+                                "underlined": false,
+                                "strikethrough": false
+                            }
+                        ]
+                    }
+                ],
+                "datasource": ""
+            },
+            "displayName": "Text",
+            "custom":
+            {},
+            "parent": "0wVRT1G1JT",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {}
+        },
+        "ASApH5QCY6":
+        {
+            "type":
+            {
+                "resolvedName": "TextInput"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "events":
+                [],
+                "placeholder": "placeholder",
+                "label": "label",
+                "labelPosition": "hidden",
+                "iterableChild": true,
+                "style":
+                {
+                    "marginBottom": "0px",
+                    "marginTop": "0px"
+                }
+            },
+            "displayName": "Text Input",
+            "custom":
+            {},
+            "parent": "MesBueCGEk",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {
+                "label": "Ys-Lbw2rwZ",
+                "input": "cRC6HSLbpH"
+            }
+        },
+        "Ys-Lbw2rwZ":
+        {
+            "type":
+            {
+                "resolvedName": "Label"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "events":
+                [],
+                "moveable": false,
+                "deletable": true,
+                "text": "Password",
+                "style":
+                {
+                    "color": "#666682"
+                }
+            },
+            "displayName": "Label",
+            "custom":
+            {},
+            "parent": "ASApH5QCY6",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {}
+        },
+        "cRC6HSLbpH":
+        {
+            "type":
+            {
+                "resolvedName": "Input"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "events":
+                [],
+                "deletable": false,
+                "className": "w-full bg-transparent",
+                "type": "password",
+                "moveable": false,
+                "placeholder": "",
+                "datasource": "",
+                "dataType": "string"
+            },
+            "displayName": "Input",
+            "custom":
+            {
+                "states:47jGZDYzEGafJZPswZLZey":
+                {
+                    "type": "text"
+                }
+            },
+            "parent": "ASApH5QCY6",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {}
+        },
+        "aLVzKVsYFA":
+        {
+            "type":
+            {
+                "resolvedName": "StyleBox"
+            },
+            "isCanvas": true,
+            "props":
+            {
+                "events":
+                [],
+                "iterableChild": true,
+                "style":
+                {
+                    "paddingLeft": "0px",
+                    "paddingRight": "0px",
+                    "paddingBottom": "0px",
+                    "paddingTop": "0px"
+                }
+            },
+            "displayName": "Stylebox",
+            "custom":
+            {},
+            "parent": "MesBueCGEk",
+            "hidden": false,
+            "nodes":
+            [
+                "dKyqt_Z6oA"
+            ],
+            "linkedNodes":
+            {}
+        },
+        "dKyqt_Z6oA":
+        {
+            "type":
+            {
+                "resolvedName": "Checkbox"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "events":
+                [],
+                "label": "label",
+                "variant": "checkbox",
+                "labelPosition": "left",
+                "iterableChild": true,
+                "style":
+                {
+                    "marginLeft": "0px",
+                    "marginRight": "0px",
+                    "marginBottom": "0px",
+                    "marginTop": "0px",
+                    "fontSize": "12px"
+                }
+            },
+            "displayName": "CheckBox",
+            "custom":
+            {},
+            "parent": "aLVzKVsYFA",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {
+                "label": "ZEFxsAZcB7",
+                "CheckboxInput": "W_eyrn9j_n"
+            }
+        },
+        "ZEFxsAZcB7":
+        {
+            "type":
+            {
+                "resolvedName": "Label"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "events":
+                [],
+                "moveable": false,
+                "htmlfor": "MLJ12HOZZ4",
+                "text": "Remember Me<br>",
+                "style":
+                {},
+                "deletable": true
+            },
+            "displayName": "Label",
+            "custom":
+            {},
+            "parent": "dKyqt_Z6oA",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {}
+        },
+        "W_eyrn9j_n":
+        {
+            "type":
+            {
+                "resolvedName": "CheckboxInput"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "classNames":
+                [],
+                "events":
+                [],
+                "deletable": false
+            },
+            "displayName": "Checkbox Input",
+            "custom":
+            {},
+            "parent": "dKyqt_Z6oA",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {}
+        },
+        "TMvTdENWu1":
+        {
+            "type":
+            {
+                "resolvedName": "Button"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "text": "Log in",
+                "classNames":
+                [],
+                "events":
+                [],
+                "iconPosition": "hidden",
+                "style":
+                {
+                    "display": "flex",
+                    "width": "250px",
+                    "height": "40px",
+                    "backgroundColor": "#a1a1bb",
+                    "marginTop": "6px",
+                    "marginBottom": "6px"
+                }
+            },
+            "displayName": "Button",
+            "custom":
+            {},
+            "parent": "MesBueCGEk",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {
+                "icon": "ejnzG1Z302"
+            }
+        },
+        "ejnzG1Z302":
+        {
+            "type":
+            {
+                "resolvedName": "Icon"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "classNames":
+                [],
+                "events":
+                [],
+                "icon": "fa-regular fa-star"
+            },
+            "displayName": "Icon",
+            "custom":
+            {},
+            "parent": "TMvTdENWu1",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {}
+        },
+        "k09GdgOUR3":
+        {
+            "type":
+            {
+                "resolvedName": "Button"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "text": "Create an account",
+                "classNames":
+                [],
+                "events":
+                [],
+                "iconPosition": "hidden",
+                "style":
+                {
+                    "display": "flex",
+                    "width": "250px",
+                    "height": "40px",
+                    "backgroundColor": "#502abb",
+                    "marginTop": "6px"
+                }
+            },
+            "displayName": "Button",
+            "custom":
+            {},
+            "parent": "MesBueCGEk",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {
+                "icon": "ZD6uUl6w-A"
+            }
+        },
+        "ZD6uUl6w-A":
+        {
+            "type":
+            {
+                "resolvedName": "Icon"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "classNames":
+                [],
+                "events":
+                [],
+                "icon": "fa-regular fa-star"
+            },
+            "displayName": "Icon",
+            "custom":
+            {},
+            "parent": "k09GdgOUR3",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {}
+        },
+        "79MqPlUpI-":
+        {
+            "type":
+            {
+                "resolvedName": "Text"
+            },
+            "isCanvas": false,
+            "props":
+            {
+                "events":
+                [],
+                "iterableChild": true,
+                "style":
+                {
+                    "textDecorationLine": " underline",
+                    "fontSize": "12px",
+                    "marginTop": "6px"
+                },
+                "doc":
+                [
+                    {
+                        "type": "paragraph",
+                        "children":
+                        [
+                            {
+                                "text": "Forgot your password?",
+                                "bold": false,
+                                "italic": false,
+                                "underlined": false,
+                                "strikethrough": false
+                            }
+                        ]
+                    }
+                ],
+                "datasource": ""
+            },
+            "displayName": "Text",
+            "custom":
+            {},
+            "parent": "MesBueCGEk",
+            "hidden": false,
+            "nodes":
+            [],
+            "linkedNodes":
+            {}
+        }
+    },
+    "styles":
+    [
+        {
+            "name": "sign-in",
+            "content": "self {\n  position: absolute;\n  width: 1727px;\n  height: 1119px;\n  top: 0;\n  left: 0;\n  background-blend-mode: overlay;\n  background: linear-gradient(135deg, rgba(235, 144, 206, 0.6) 0%, rgba(129, 53, 212, 0.2) 54.91%, rgba(72, 55, 188, 0) 100%);\n}",
+            "parentId": null,
+            "id": "chyCpB18gb-6WmyX4Vdkz",
+            "scope": "local"
+        },
+        {
+            "name": "lightMode",
+            "content": "self {\n  background-color : #ffffffff;\n  color : #666682;\n}",
+            "parentId": null,
+            "id": "DqyTqbssWxMrnZfb5HBFx",
+            "scope": "local"
+        }
+    ]
+}
